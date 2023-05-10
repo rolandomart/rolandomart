@@ -1,5 +1,11 @@
-# "¡Hola! Soy Rolando Martínez 👋
-Apasionado diseñador UX-UI y desarrollador web junior con experiencia en proyectos emocionantes y desafiantes.En el transcurso de mi carrera, he trabajado en proyectos de diseño y desarrollo que me han ayudado a desarrollar habilidades sólidas en áreas como el diseño de interfaces de usuario 🎨, la creación de wireframes y prototipos 🧑‍💻, la programación front-end y back-end 💻, la optimización de la velocidad de carga y la seguridad del sitio web 🔒.<br><br>Mi enfoque de trabajo es centrarme en la experiencia del usuario y en la creación de soluciones creativas y funcionales para problemas complejos. Creo en la importancia de la investigación y el análisis de los usuarios 🔍 y siempre me esfuerzo por crear soluciones que satisfagan las necesidades y deseos de los usuarios 😊.<br><br>Cuando no estoy trabajando, me encanta la fotografía 📷 y el gimnasio 🏋️‍♂️. Me gusta capturar momentos y paisajes únicos y mantenerme en forma para tener la energía necesaria para enfrentar nuevos desafíos en mi trabajo 💪.<br><br>Estoy comprometido con crear soluciones de diseño y desarrollo de alta calidad para mis clientes y me encantaría tener la oportunidad de trabajar contigo en tu próximo proyecto 🤝. Si te interesa trabajar conmigo, colaborar o simplemente quieres conectarte, no dudes en ponerte en contacto conmigo 📩".
+# "Hello! I'm Rolando Martínez 👋
+Passionate UX-UI designer and junior web developer with experience in exciting and challenging projects. Throughout my career, I have worked on design and development projects that have helped me build strong skills in areas such as user interface design 🎨, creating wireframes and prototypes 🧑‍💻, front-end and back-end programming 💻, website speed optimization, and security 🔒.
+
+My work approach focuses on user experience and creating creative and functional solutions for complex problems. I believe in the importance of user research and analysis 🔍 and always strive to create solutions that meet the needs and desires of users 😊.
+
+When I'm not working, I enjoy photography 📷 and hitting the gym 🏋️‍♂️. I like capturing unique moments and landscapes, and staying fit to have the energy needed to tackle new challenges in my work 💪.
+
+I am committed to creating high-quality design and development solutions for my clients, and I would love the opportunity to work with you on your next project 🤝. If you are interested in working with me, collaborating, or just want to connect, feel free to get in touch with me 📩."
 
 
 ## 🌐 Socials:
