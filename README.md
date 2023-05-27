@@ -1,11 +1,11 @@
-# "Hello! I'm Rolando Martínez 👋
+# <img align="left" height="60" src="https://media1.giphy.com/media/jnmkB9f2FexHqeywcz/giphy.gif"/> "Hello! I'm Rolando Martínez 👋
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/alexislorenzo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolandomartinez10/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com.mx/alexis10lorenzo/) 
 
 
-<img align="left" height="450" src="https://media1.giphy.com/media/jnmkB9f2FexHqeywcz/giphy.gif"/>
+
 <br>
 
 Passionate UX-UI designer and junior web developer with experience in exciting and challenging projects. Throughout my career, I have worked on design and development projects that have helped me build strong skills in areas such as user interface design 🎨, creating wireframes and prototypes 🧑‍💻, front-end and back-end programming 💻, website speed optimization, and security 🔒.
